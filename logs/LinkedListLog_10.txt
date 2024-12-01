@@ -1,0 +1,19 @@
+Start program: 2024-11-07T14:25:49.925716
+add, ID = 0, 151500
+add, ID = 1, 186100
+add, ID = 2, 187200
+add, ID = 3, 188000
+add, ID = 4, 188500
+add, ID = 5, 188900
+add, ID = 6, 189200
+add, ID = 7, 191400
+add, ID = 8, 191800
+add, ID = 9, 192200
+addTotalCount = 10
+addTotalTime = 192500
+remove, ID = 7, 6100
+removeTotalCount = 1
+removeTotalTime = 6900
+Finish program: 2024-11-07T14:25:49.925716
+
+
